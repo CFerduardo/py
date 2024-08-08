@@ -17,7 +17,7 @@ print('''
     ''')
 
 
-#varaiables en una sola linea 
+#Varaiables en una sola linea 
 name, lastName, alias, age = 'carlos', 'silva', 'apache', 25
 print('me llamo ', name, lastName, ' me dicen ', alias, ' y tengo ', age, ' de edad')
 
@@ -36,9 +36,8 @@ aNumero = int(texto)
 print(type(aNumero))
 
 
-#inputs 
+#Inputs 
 indicaTuNombre = input('Escribe tu nombre : ')
 indicaTuEdad = input('Escribe tu edad : ')
-
 print(indicaTuNombre)
 print(indicaTuEdad)
