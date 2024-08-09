@@ -1,4 +1,4 @@
-#Tupla
+#Declarar Tupla
 my_tuple = tuple()      #1er forma
 my_other_tuple = (20, 65, 36)      #2da forma
 
